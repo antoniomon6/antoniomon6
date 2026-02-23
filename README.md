@@ -21,13 +21,6 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasi
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=antoniomon6&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomon6&layout=compact&theme=radical)
-
----
-
 ### 📫 Conecta conmigo
 ¡Estaré encantado de conectar y charlar sobre tecnología!
 
