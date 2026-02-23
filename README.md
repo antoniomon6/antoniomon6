@@ -1,16 +1,16 @@
 # 👋 ¡Hola! Soy Antonio Malagon García
 
 ### 🚀 Sobre mí
-Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona el mundo del software y estoy enfocado en aprender a crear aplicaciones robustas, eficientes y con una gran experiencia de usuario, tanto en escritorio como en dispositivos móviles.
+Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasiona el desarrollo de software y estoy enfocado en aprender a crear aplicaciones robustas y eficientes, con especial interés en el ecosistema móvil y de escritorio.
 
-- 🔭 Actualmente estoy centrado en mis estudios de: **DAM**
-- 🌱 Estoy profundizando en: **Java, Kotlin y Gestión de Bases de Datos**
-- 💬 Pregúntame sobre: Desarrollo de apps y lo que voy aprendiendo en el ciclo.
-- ⚡ Dato curioso: ¡Siempre buscando la manera de optimizar mi flujo de trabajo!
+- 🔭 Actualmente cursando: **Grado Superior en DAM**
+- 🌱 Perfeccionando mis habilidades en: **Java, Kotlin y SQL**
+- 💬 Pregúntame sobre: Desarrollo de apps o cualquier reto de programación que esté superando.
+- ⚡ Dato curioso: ¡Siempre buscando el código más limpio y eficiente!
 
 ---
 
-### 🛠️ Mi Stack Tecnológico (Aprendiendo y usando)
+### 🛠️ Mi Stack Tecnológico
 
 | Área | Herramientas |
 | :--- | :--- |
@@ -23,16 +23,13 @@ Soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Me apasi
 
 ### 📊 Mis Estadísticas de GitHub
 
-> [!IMPORTANT]
-> Para que estas imágenes funcionen, cambia **TU_USUARIO_AQUÍ** por tu nombre de usuario real de GitHub en las URLs de abajo.
-
-![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radical)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=radical)
+![Estadísticas de Antonio](https://github-readme-stats.vercel.app/api?username=antoniomon6&show_icons=true&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomon6&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Conecta conmigo
-¿Quieres contactar conmigo o ver en qué estoy trabajando?
+¡Estaré encantado de conectar y charlar sobre tecnología!
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/TU_PERFIL_LINKEDIN)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:tu-correo@ejemplo.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/antonio-malagon-garcía-662529364)
+[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:antoniomalagar06@gmail.com)
